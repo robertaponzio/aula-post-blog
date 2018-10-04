@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'lato', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+ul {
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+ol {
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.esquerda {
+    float: left; 
+    width: 49%;
+}
+.direita {
+    float: right;
+    width: 49%;
+}

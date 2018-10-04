@@ -1,0 +1,62 @@
+.top {
+    height:80px;
+    display: flex;
+}
+.logo {
+    width: 250px;
+    align-content: center 
+}
+.menu {
+    display: inline-flex;
+    list-style: none;
+}
+.menu li {
+    margin-left: 20px;
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+.tema-blog {
+    text-transform: uppercase;
+    text-align: center;
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    color: gray;
+}
+hr {
+    box-shadow: 5px 5px 5px rgb(10, 10, 10);
+}
+
+.iana-assinatura {
+    display: inline-flex;
+    float: left; 
+}
+.direita {
+    /* float: inherit; */
+    /* uyjhbhbhbhj
+    uyguguyguyg */
+}
+
+.h1-grupo {
+    /* display: inline-flex; */
+    color: gray;
+    font-family:'lato', Arial, Helvetica, sans-serif;
+}
+.corpo-post {
+    /* display: inline-flex; */
+    font-size: 18;
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.rodape {
+    padding: 1px;
+    background-color: #272525;
+    margin-top: 20px;
+    color: antiquewhite;
+    font-family:'lato', Arial, Helvetica, sans-serif;
+    font-size: 16;
+    text-align: center;
+}
+
+.thumb {
+    width: 70%;
+}
